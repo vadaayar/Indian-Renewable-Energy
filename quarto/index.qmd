@@ -1,0 +1,107 @@
+---
+title: "Comprehensive Renewable Energy Dashboard"
+format: html
+editor: visual
+---
+
+# Comprehensive Renewable Energy Dashboard
+
+## Introduction
+
+India is leading the charge towards renewable energy with ambitious goals and significant progress. This dashboard provides a comprehensive view of India's renewable energy journey, including installed capacity, state-wise contributions, global comparisons, carbon reduction impacts, and future targets.
+
+---
+
+## Installed Capacity Over Time
+
+The installed renewable energy capacity in India has shown a remarkable increase over the years, driven by policies and investments. This section tracks the progress from 2018 to 2022, highlighting the consistent growth in gigawatts (GW) of renewable energy.
+
+Key points:
+- A consistent rise in total installed capacity year by year.
+- Solar energy leads the growth, followed by wind and hydroelectric sources.
+- Government initiatives like the National Solar Mission have been pivotal in driving this progress.
+
+---
+
+## Renewable Share in Energy Mix
+
+Renewable energy is becoming a significant part of India's total energy mix. This section outlines:
+- The increasing percentage of renewables in India's energy mix.
+- Contributions from solar, wind, and hydroelectric sources.
+- Comparisons to fossil fuel-based energy generation.
+
+The trends underscore India's commitment to reducing dependency on fossil fuels.
+
+---
+
+## Source-Wise Capacity Growth
+
+Renewable energy sources such as solar, wind, and hydro have unique growth trajectories:
+- **Solar Energy**: Fastest-growing segment due to declining costs and increased efficiency.
+- **Wind Energy**: Steady growth with significant potential in coastal regions.
+- **Hydroelectric Energy**: A mature segment that continues to contribute significantly to the overall mix.
+
+The diversity of sources ensures resilience and sustainability in India's energy strategy.
+
+---
+
+## State-Wise Renewable Energy Contributions
+
+India's vast geographical and climatic diversity enables various states to specialize in renewable energy production:
+- **Tamil Nadu**: A leader in wind energy.
+- **Rajasthan**: Dominates in solar energy production due to its vast deserts.
+- **Karnataka**: A balanced mix of solar and wind energy.
+
+State-level contributions highlight the decentralized nature of India's renewable energy initiatives.
+
+---
+
+## Global Renewable Energy Comparison
+
+India's renewable energy achievements in a global context:
+- India ranks among the top countries for renewable energy capacity.
+- China leads the world, followed by the USA and the European Union.
+- India's per capita renewable energy contribution is rapidly increasing, reflecting its growth trajectory.
+
+This section emphasizes India's role as a global renewable energy leader.
+
+---
+
+## Future Renewable Energy Targets
+
+India has set ambitious renewable energy targets for the coming decades:
+- 500 GW by 2030 as part of its commitment under the Paris Agreement.
+- Significant focus on offshore wind energy and green hydrogen projects.
+- Policies and subsidies to accelerate adoption and deployment.
+
+These targets demonstrate India's intent to become a net-zero carbon economy.
+
+---
+
+## Key Renewable Energy Policies
+
+Several policies have catalyzed the growth of renewable energy in India:
+- **National Solar Mission**: Aims to make India a global leader in solar energy.
+- **Wind Power Initiative**: Focuses on harnessing the potential of India's coastal regions.
+- **Green Energy Corridor**: Strengthens the grid for renewable energy integration.
+- **Offshore Wind Policy**: Targets the development of offshore wind farms.
+
+These initiatives reflect a comprehensive policy framework supporting renewable energy growth.
+
+---
+
+## Source-Wise Renewable Energy Mix
+
+The mix of renewable energy sources over time highlights:
+- The dominance of solar energy in India's energy landscape.
+- The steady contribution of wind and hydroelectric energy.
+- The transition from fossil fuels to renewables, aligning with global climate goals.
+
+---
+
+## Conclusion
+
+India’s renewable energy journey demonstrates its leadership and commitment to sustainability. By leveraging policies, technological advancements, and international collaborations, India is paving the way for a greener future. This dashboard provides a comprehensive understanding of India's progress and serves as a resource for global inspiration.
+
+
+

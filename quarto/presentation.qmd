@@ -1,0 +1,105 @@
+---
+title: "India's Renewable Energy Journey"
+format: revealjs
+editor: visual
+---
+
+# India's Renewable Energy Journey
+
+
+## Introduction
+
+- India is one of the global leaders in renewable energy development.
+- Significant growth in solar, wind, and hydroelectric power.
+- Comprehensive policies and international commitments drive progress.
+
+
+## Installed Capacity Over Time
+
+- Consistent growth in renewable energy capacity (2018–2022).
+- Solar energy leads the expansion, followed by wind and hydro.
+- Key statistics:
+  - 2018: X GW
+  - 2022: Y GW
+- Supported by initiatives like the National Solar Mission.
+
+
+
+## Renewable Share in Energy Mix
+
+- Renewables make up an increasing share of India's energy mix.
+- Solar, wind, and hydro combined have reduced dependence on fossil fuels.
+- Contribution trends:
+  - Renewables in 2018: X%
+  - Renewables in 2022: Y%
+- Demonstrates India’s commitment to sustainability.
+
+
+## Source-Wise Capacity Growth
+
+- **Solar Energy**:
+  - Largest growth, driven by falling costs and government incentives.
+- **Wind Energy**:
+  - Significant in coastal areas; steady development.
+- **Hydro Energy**:
+  - Mature and reliable, contributing consistently.
+
+
+
+## State-Wise Contributions
+
+- **Tamil Nadu**: Leader in wind energy.
+- **Rajasthan**: Dominates solar energy production.
+- **Karnataka**: Balanced contributions from solar and wind energy.
+- Decentralized contributions ensure nationwide impact.
+
+
+## Global Renewable Energy Comparison
+
+- India ranks among the top five countries for renewable energy capacity.
+- Comparative insights:
+  - China: Largest capacity globally.
+  - USA & EU: Significant contributors.
+  - India: Rapidly growing per capita capacity.
+- India's role in global climate change mitigation.
+
+
+## Future Targets
+
+- India aims for:
+  - 500 GW renewable capacity by 2030.
+  - Green hydrogen and offshore wind projects.
+- Aligns with the Paris Agreement goals.
+- Policies to accelerate renewable energy adoption.
+
+
+
+## Key Policies Driving Growth
+
+- **National Solar Mission**: Ambitious solar energy goals.
+- **Wind Power Initiative**: Harnessing coastal potential.
+- **Green Energy Corridor**: Infrastructure for grid integration.
+- **Offshore Wind Policy**: Unlocking offshore wind resources.
+
+
+
+## Conclusion
+
+- India is on track to becoming a global renewable energy leader.
+- Strong policy framework, technological innovation, and international partnerships.
+- A model for sustainable energy transition worldwide.
+
+
+
+## Thank You
+
+- Questions?
+- For more details, refer to the full report and interactive dashboard.
+
+
+### Team Renewable Energy India
+- GitHub Repository: [CU-F24-MDSSB-MET-03-VisCommDataStory](https://github.com/orgs/CU-F24-MDSSB-MET-03-VisCommDataStory/teams/renewableenergyindia)
+- Interactive Dashboard: Accessible via local deployment.
+
+
+
